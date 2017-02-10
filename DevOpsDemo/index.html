@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport"
+          content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Unisys DevOps Demo - Temperature Coverter</title>
+</head>
+<body ng-app="devopdemo">
+    <div ng-controller="tempController">
+        <br>
+        <div class="row">
+            <!--
+             <h1>
+                <b>Message from <a href="api/hello">/api/hello</a></b> :
+                <span id="messageText"></span>
+            </h1>
+            <p></p>
+             -->
+            <h1 id="hdr">The Temperature Converter</h1>
+            <h4>Version 1.1.2</h4>
+        </div>
+
+        <div class="row">
+            <h1>Celsius to Fahrenheit conversion (ºC to ºF)</h1>
+            <div align="center">
+                <span>Provide temperature in Celsius: <input type="text" id="c1" name="c1" ng-model="c2f.cval" /></span>
+                <input type="button" id="c2f" value="=>" ng-click="convertc2f()" />
+                <span><input type="text" id="f1" name="f1" value="{{c2f.fval}}" /> - Converted temperature in Fahrenheit</span>
+            </div>
+        </div>
+        <div class="row">
+            <h1>Fahrenheit to Celsius conversion (ºF to ºC)</h1>
+            <div align="center">
+                <span>Provide temperature in Fahrenheit: <input type="number" id="fVal" ng-model="f2c.fval" /></span>
+                <input type="button" value="=>" ng-click="convertf2c()" />
+                <span><input type="text" id="c2" name="c2" value="{{f2c.cval}}" /> - Converted temperature in Celsius</span>
+            </div>
+        </div>
+    </div>
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/angular-animate.js"></script>
+    <script src="Scripts/angular-route.js"></script>
+    <script src="App/app.js"></script>
+</body>
+</html>

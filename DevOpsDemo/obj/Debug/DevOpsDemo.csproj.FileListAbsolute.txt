@@ -1,0 +1,14 @@
+d:\Kangkan\Works\DevOps\Demo\MS Azure\demo-code\DevOpsDemo\DevOpsDemo\DevOpsDemo\bin\AngularJSWebApiEmpty.dll.config
+d:\Kangkan\Works\DevOps\Demo\MS Azure\demo-code\DevOpsDemo\DevOpsDemo\DevOpsDemo\bin\AngularJSWebApiEmpty.dll
+d:\Kangkan\Works\DevOps\Demo\MS Azure\demo-code\DevOpsDemo\DevOpsDemo\DevOpsDemo\bin\AngularJSWebApiEmpty.pdb
+d:\Kangkan\Works\DevOps\Demo\MS Azure\demo-code\DevOpsDemo\DevOpsDemo\DevOpsDemo\bin\Newtonsoft.Json.dll
+d:\Kangkan\Works\DevOps\Demo\MS Azure\demo-code\DevOpsDemo\DevOpsDemo\DevOpsDemo\bin\System.Net.Http.Formatting.dll
+d:\Kangkan\Works\DevOps\Demo\MS Azure\demo-code\DevOpsDemo\DevOpsDemo\DevOpsDemo\bin\System.Web.Http.dll
+d:\Kangkan\Works\DevOps\Demo\MS Azure\demo-code\DevOpsDemo\DevOpsDemo\DevOpsDemo\bin\System.Web.Http.WebHost.dll
+d:\Kangkan\Works\DevOps\Demo\MS Azure\demo-code\DevOpsDemo\DevOpsDemo\DevOpsDemo\bin\Newtonsoft.Json.xml
+d:\Kangkan\Works\DevOps\Demo\MS Azure\demo-code\DevOpsDemo\DevOpsDemo\DevOpsDemo\bin\System.Net.Http.Formatting.xml
+d:\Kangkan\Works\DevOps\Demo\MS Azure\demo-code\DevOpsDemo\DevOpsDemo\DevOpsDemo\bin\System.Web.Http.xml
+d:\Kangkan\Works\DevOps\Demo\MS Azure\demo-code\DevOpsDemo\DevOpsDemo\DevOpsDemo\bin\System.Web.Http.WebHost.xml
+d:\Kangkan\Works\DevOps\Demo\MS Azure\demo-code\DevOpsDemo\DevOpsDemo\DevOpsDemo\obj\Debug\DevOpsDemo.csprojResolveAssemblyReference.cache
+d:\Kangkan\Works\DevOps\Demo\MS Azure\demo-code\DevOpsDemo\DevOpsDemo\DevOpsDemo\obj\Debug\AngularJSWebApiEmpty.dll
+d:\Kangkan\Works\DevOps\Demo\MS Azure\demo-code\DevOpsDemo\DevOpsDemo\DevOpsDemo\obj\Debug\AngularJSWebApiEmpty.pdb
